@@ -1,0 +1,7 @@
+C:\Users\Matrix3_21\source\repos\Mantik\Mantik\bin\Debug\Mantik.exe.config
+C:\Users\Matrix3_21\source\repos\Mantik\Mantik\bin\Debug\Mantik.exe
+C:\Users\Matrix3_21\source\repos\Mantik\Mantik\bin\Debug\Mantik.pdb
+C:\Users\Matrix3_21\source\repos\Mantik\Mantik\obj\Debug\Mantik.csproj.AssemblyReference.cache
+C:\Users\Matrix3_21\source\repos\Mantik\Mantik\obj\Debug\Mantik.csproj.CoreCompileInputs.cache
+C:\Users\Matrix3_21\source\repos\Mantik\Mantik\obj\Debug\Mantik.exe
+C:\Users\Matrix3_21\source\repos\Mantik\Mantik\obj\Debug\Mantik.pdb
