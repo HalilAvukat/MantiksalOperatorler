@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matrix3_21\\Documents\\GitHub\\MantiksalOperatorler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95233E9E-7872-403F-AEED-853152D35C73}|Mantik\\Mantik.csproj|c:\\users\\matrix3_21\\documents\\github\\mantiksaloperatorler\\mantik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95233E9E-7872-403F-AEED-853152D35C73}|Mantik\\Mantik.csproj|solutionrelative:mantik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matrix3_21\\Documents\\GitHub\\MantiksalOperatorler\\Mantik\\Program.cs",
+              "RelativeDocumentMoniker": "Mantik\\Program.cs",
+              "ToolTip": "C:\\Users\\Matrix3_21\\Documents\\GitHub\\MantiksalOperatorler\\Mantik\\Program.cs",
+              "RelativeToolTip": "Mantik\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:43:34.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

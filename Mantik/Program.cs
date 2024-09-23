@@ -41,6 +41,8 @@ namespace Mantik
             bool aralikdisimi2 = !(sayi > 10 && sayi <20);
             Console.Write("Sayı 10 ile 20 aralığı dışında  mı = ");
             Console.WriteLine(aralikdisimi2);
+
+            //Merhaba Bu geşiklik Alp Hoca Tarafından Yapıldı
         }
     }
 }
